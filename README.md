@@ -1,4 +1,5 @@
 # wiggity
+$ gitinit
 <!DOCTYPE html>
 <head>
   <title>Random Website lol</title>
