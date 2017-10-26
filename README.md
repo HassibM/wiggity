@@ -1,12 +1,13 @@
 # wiggity
 $ gitinit
+
 <!DOCTYPE html>
 <head>
   <title>Random Website lol</title>
   <style>
     body {
       text-align: center;
-      background: url("http://schools.nyc.gov/NR/rdonlyres/E0D20E79-0EEC-4DE1-A8AA-2C82FFD9DD42/74959/newbxscientrance.jpg");
+      background: url("http://cdn.history.com/sites/2/2015/03/hungry-history-the-halloween-pumpkin-an-american-history-E.jpeg");
       background-size: cover;
       background-position: center;
       color: white;
